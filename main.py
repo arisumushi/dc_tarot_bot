@@ -1037,4 +1037,4 @@ async def on_message(message):
 
         await message.channel.send(embed=random.choice(embed))
 
-client.run('YOUR_TPKEN')
+client.run('YOUR_TOKEN')
